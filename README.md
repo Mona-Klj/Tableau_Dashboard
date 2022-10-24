@@ -14,7 +14,7 @@ https://public.tableau.com/app/profile/mona.khalaj/viz/AirbnbFullProject_1653609
 
 https://public.tableau.com/app/profile/mona.khalaj/viz/CovidDataAnalysisDashboard_16517285380160/Dashboard1
 
-3- Third "Featured" project is Financial Complaints KPI Dashboard and the data is available through the link bellow:
+3- Third "Featured" project is Financial Complaints KPI Dashboard and the data is available through the link bellow :
 
 https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Financial+Consumer+Complaints.csv
 
