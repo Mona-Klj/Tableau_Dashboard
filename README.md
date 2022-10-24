@@ -10,7 +10,7 @@ The Public Dashboard is available through the link bellow:
 
 https://public.tableau.com/app/profile/mona.khalaj/viz/AirbnbFullProject_16536094131880/Dashboard1?publish=yes
 
-2- Second project is Covid Data Analysis Dashboard.
+2- Second project is Covid Data Analysis Dashboard .
 
 https://public.tableau.com/app/profile/mona.khalaj/viz/CovidDataAnalysisDashboard_16517285380160/Dashboard1
 
