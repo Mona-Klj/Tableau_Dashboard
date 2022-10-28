@@ -18,7 +18,7 @@ https://public.tableau.com/app/profile/mona.khalaj/viz/CovidDataAnalysisDashboar
 
 https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Financial+Consumer+Complaints.csv
 
-Public Dashboard link:
+Public Dashboard link :
 
 https://public.tableau.com/app/profile/mona.khalaj/viz/FinancialComplaintsKPI_16551843699250/FCOverview
 
